@@ -22,7 +22,7 @@ Same engine as GroundTruth: one quiet notification while you shop, location-base
 
 ## Version
 
-**v1.0 — first build, October 2026.** The APK (`CeoRatio-v1.0.apk`) is in this repo's file list — free, Android 8.0+.
+**v1.0 — first build, October 2026.** Not public yet — headed to Google Play closed testing first, like GroundTruth. The public download opens when Bryan says so.
 
 ## Source
 
