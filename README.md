@@ -26,7 +26,7 @@ Same engine as GroundTruth: one quiet notification while you shop, location-base
 
 ## Source
 
-Full Kotlin/Jetpack Compose source is pushed to this repo from the project's workstation backup. The app was designed and built in Greenville, SC.
+This repo currently holds this README plus the project's funding and configuration files — the app's source code is not published in this repo. The app was designed and built in Greenville, SC.
 
 ---
 
